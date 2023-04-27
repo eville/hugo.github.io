@@ -1,0 +1,4 @@
+[submodule "evilleblog/themes/paperesque"]
+	path = evilleblog/themes/paperesque
+	url = https://github.com/capnfabs/paperesque
+	branch = mainline
