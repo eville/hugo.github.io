@@ -2,3 +2,7 @@
 	path = evilleblog/themes/paperesque
 	url = https://github.com/capnfabs/paperesque
 	branch = mainline
+[submodule "evilleblog/public"]
+	path = evilleblog/public
+	url = https://github.com/eville/eville.github.io.git
+	branch = main

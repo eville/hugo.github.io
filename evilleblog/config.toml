@@ -33,20 +33,8 @@ pygmentsUseClasses = true
 # Customise your home page menu here:
 
 [[params.menu]]
-  name = "Recent Posts"
+  name = "My Posts"
   url = "posts/"
-
-[[params.menu]]
-  name = "Posts by Tag"
-  url = "tags/"
-
-[[params.menu]]
-  name = "About the contents of this example"
-  url = "about/"
-
-[[params.menu]]
-  name = "Hugo Themes default example pages"
-  url = "tags/hugobasicsite/"
 
 [[params.menu]]
   name = "Link to theme on Github"
@@ -54,11 +42,3 @@ pygmentsUseClasses = true
 
 
 # And your top-right menu links here.
-
-[[params.topmenu]]
-  name = "my favourite bird"
-  url = "posts/kookaburra/"
-
-[[params.topmenu]]
-  name = "rss"
-  url = "posts/index.xml"
